@@ -1,5 +1,6 @@
 # CALVINBALL-SANDBOX
 ![WakaTime Badge](https://wakatime.com/badge/github/trentpolack/CALVINBALL-SANDBOX.svg)
+
 A Unity URP sandbox outside the main project to serve as a stomping ground for smaller experiments and self-contained work.
 
 ## Authors
